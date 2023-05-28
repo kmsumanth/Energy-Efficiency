@@ -20,4 +20,5 @@ Model Selection:
 
 I have use Linear regression, Lasso, Ridge, Elastic net, Decision tree regression and Random Forest Regression. I have get Training Score as 98%  I have got Testing Score only 97% which is a good score.
 
-Deployment Link:
+Deployment Link:http://energyefficiency-env.eba-tnvcvgwe.eu-north-1.elasticbeanstalk.com/predict
+
