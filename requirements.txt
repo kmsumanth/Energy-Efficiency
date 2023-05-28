@@ -1,0 +1,14 @@
+pandas
+numpy
+flask
+scikit-learn
+seaborn
+klib
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+click
+env
+-e .
