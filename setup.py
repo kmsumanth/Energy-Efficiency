@@ -21,8 +21,8 @@ def get_requirements(file_path:str)->List[str]:
 setup(
 name='Energy Efficiency',
 version='0.0.1',
-author='Shahin',
-author_name='shahin.anjum@outlook.com',
+author='K M Sumanth',
+author_name='kmsumanth002@gmail.com',
 install_requires=get_requirements('requirements.txt'),
 packages=find_packages())
 
